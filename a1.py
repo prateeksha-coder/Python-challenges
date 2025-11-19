@@ -7,9 +7,3 @@ z=(a+b)*c/d
 print(z)
 name="ALex"
 age=0
-n=int(input("Enter numerator: "))
-deno=int(input("Denominator: "))
-if (n%deno==0):
-    print("divisible")
-else:
-    print("Not divisible")
